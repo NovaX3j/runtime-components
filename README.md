@@ -1,1 +1,1 @@
-This file is Vedant's first git directory!
+This file is Vedant's first git repo!
